@@ -6,6 +6,7 @@ import javax.imageio.ImageIO;
 public class Main {
     public static void main(String[] args) {
         // Load the two images
+        //image2 and image3 are same images. and image1 is different
         BufferedImage image1 = loadImage("image2.jpg");
         BufferedImage image2 = loadImage("image3.jpg");
 
